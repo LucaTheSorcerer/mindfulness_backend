@@ -45,4 +45,11 @@ public class UserController {
     }
 
 
+    @PutMapping("/user")
+    public ResponseEntity<User> updateUser(@RequestParam(name="userId") long userId, @RequestBody User userDetails) {
+        User updatedUser = userService.updateUser(userId, userDetails);
+        return new ResponseEntity<>(updatedUser, HttpStatus.OK);
+    }
+
+
 }
