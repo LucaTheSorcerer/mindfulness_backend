@@ -5,21 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a3d018-c827-4b66-9cfb-0cc0248b439c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/src/main/java/org/example/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/src/main/java/org/example/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/src/main/java/org/example/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/src/main/java/org/example/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mindfulness_be/mindfulness_backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/src/main/java/org/example/Controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/src/main/java/org/example/Entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/src/main/java/org/example/Repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/src/main/java/org/example/Service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mindfulness_be/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,38 +62,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Docker.Dockerfile.executor": "Run",
-    "Maven.mindfulness_be [clean].executor": "Run",
-    "Maven.mindfulness_be [install].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.Main.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.build.tools.auto.reload": "SELECTIVE",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Docker.Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mindfulness_be [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mindfulness_be [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;SELECTIVE&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.Main">
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="mindfulness_be" />
@@ -107,7 +117,9 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -134,6 +146,7 @@
       <updated>1711125581901</updated>
       <workItem from="1711125583128" duration="3673000" />
       <workItem from="1711129266938" duration="6159000" />
+      <workItem from="1711135804109" duration="390000" />
     </task>
     <servers />
   </component>
